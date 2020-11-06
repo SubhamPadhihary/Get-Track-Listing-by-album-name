@@ -8,4 +8,4 @@ It's a simple, beginner, command line program to get track listing of Albums usi
 4. open command line in the folder, type: python get_track_listing.py
 
 ## What does it do?
-You enter the album name, and hopefully, it gets the track listing of the album from Wikipedia, using Selenium.
+You enter the album name, and hopefully, it prints the track listing of the album from Wikipedia, using Selenium.
